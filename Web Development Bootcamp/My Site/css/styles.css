@@ -13,7 +13,7 @@ body{
 
 .bottom-container{
     background-color: #B2C8DF;
-    position:relative;
+ /*   position:relative; */
     margin-top: 5px;
     padding-top: 20px;
     padding-bottom: 3px;
@@ -98,7 +98,7 @@ a{
     padding-left: 10px;
 }
 .contacticon{
-    width: 20%
+    width: 20%;
 }
 
 .skill-row{
@@ -119,6 +119,7 @@ a{
 .contact-me{
     width: 60%;
     margin: 20px auto 40px;
+    align-items: center;
 }
 .btn {
     background: #3498db;
