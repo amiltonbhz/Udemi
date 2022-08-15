@@ -27,10 +27,18 @@ body{
 
 hr{
     color: #AC4425;
-    width: 8%;
+    width: 9%;
     border: 0.75 rem;
     border-style: dashed;
     margin: 40px auto;
+}
+
+.hr2{
+    color: #AC4425;
+    width: 9%;
+    border: 0.75 rem;
+    border-style: dashed;
+    margin: auto;
 }
 
 h1{
@@ -81,6 +89,10 @@ a{
     margin: 100px 0;
 }
 
+.empty-div{
+    height: 40px;
+}
+
 .profilephoto{
     width: 20%;
     margin-top: 40px;
@@ -98,8 +110,9 @@ a{
     padding-left: 10px;
 }
 .contacticon{
-    width: 20%;
+    width: 12%;
 }
+   
 
 .skill-row{
     width:50%;
@@ -121,6 +134,8 @@ a{
     margin: 20px auto 40px;
     align-items: center;
 }
+
+
 .btn {
     background: #3498db;
     background-image: -webkit-linear-gradient(top, #3B9AE1, #3B9AE1);
