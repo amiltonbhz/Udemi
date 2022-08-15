@@ -3,7 +3,8 @@ body{
     margin: 0;
     text-align: center;
     font-size: 20px;
-    color: #40514E
+    color: #40514E;
+    background-color: #F9F9F9;
 }
 .topcontainer{
     background-color: #B2C8DF;
@@ -42,8 +43,8 @@ hr{
 }
 
 h1{
-    font-family: 'Berkshire Swash', cursive;
-    color: #554994;
+    font-family: 'Gugi', cursive;
+    color: #554994;    ;
     margin-top:0;
     margin-bottom: 0;
     font-size: 5.625rem;
@@ -55,7 +56,7 @@ h1{
 h2{
     line-height: 2px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     color:#554994;
     font-weight: lighter;
     padding-bottom:10px;
@@ -110,7 +111,7 @@ a{
     padding-left: 10px;
 }
 .contacticon{
-    width: 12%;
+    width: 20%;
 }
    
 
